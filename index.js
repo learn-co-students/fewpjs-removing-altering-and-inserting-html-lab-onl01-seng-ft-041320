@@ -4,7 +4,7 @@ main.remove()
 
 let newHeader = document.createElement('h1')
 
-newHeader.className = "victory"
+newHeader.id = "victory"
 
 newHeader.innerHTML = "Matt is the champion"
 
