@@ -6,6 +6,6 @@ let newHeader = document.createElement('h1')
 
 newHeader.className = "victory"
 
-newHeader.innerHTML = "YOUR-NAME is the champion"
+newHeader.innerHTML = "Matt is the champion"
 
 element.appendChild(newHeader)
